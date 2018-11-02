@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "date-generated": "Fri Nov 02 2018",
+  "time-generated": "00:00",
+  "approximate-time-remaining": "23:59",
+  "rates": {
+    "SHIL": 37.702291899258285,
+    "DOLR": 33.77304370590701,
+    "QUID": 46.06870467662757,
+    "PENY": 28.68394565397084
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "feature-1",
+        "value": "3.212445828708752",
+        "currency": "SHIL",
+        "marker-symbol": "1",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18705,
+          55.944453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "feature-2",
+        "value": "7.173534300798167",
+        "currency": "QUID",
+        "marker-symbol": "2",
+        "marker-color": "#ffdf00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187,
+          55.944377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "feature-3",
+        "value": "5.911200302239122",
+        "currency": "SHIL",
+        "marker-symbol": "3",
+        "marker-color": "#00ffdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186766,
+          55.944377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "feature-4",
+        "value": "7.456321245885746",
+        "currency": "DOLR",
+        "marker-symbol": "4",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186594,
+          55.944462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "feature-5",
+        "value": "6.228522799364573",
+        "currency": "PENY",
+        "marker-symbol": "5",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1868,
+          55.944466
+        ]
+      }
+    }
+  ]
+}
