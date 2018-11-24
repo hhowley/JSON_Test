@@ -1,0 +1,21 @@
+{
+  "date_file" : "http://homepages.inf.ed.ac.uk/stg/coinz/2018/11/05/coinzmap.geojson",
+  "coins_collection" : [
+    "299b-22d2-cac1-f520-73eb-2fb9",
+    "f969-9e33-0130-aa4b-7d2c-5772",
+    "75b1-40a1-228a-b296-7b6f-bedd",
+    "dfc4-481b-c536-1463-7d2b-15d3",
+    "c4dd-ba3f-883a-d68b-89a9-f12c",
+    "d8e1-20ee-2ae0-b65a-ed38-fd64",
+    "495f-3343-b87a-eea0-29e4-3717",
+    "b07b-f687-fb8b-3dde-91fa-f3b6",
+    "ef2b-9c72-248e-17e0-5f1e-db66"
+  ],
+  "total_collected" : {
+    "SHIL" : 5.81426491911,
+    "DOLR" : 36.479977519,
+    "PENY" : 0,
+    "QUID" : 0
+  }
+
+}
