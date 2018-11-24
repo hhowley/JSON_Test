@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<trk>
+<name>Unnamed Route</name>
+<trkseg>
+<trkpt lat="55.9455352" lon="-3.1876659">
+<ele>88</ele>
+<time>2018-11-24T00:00:00Z</time></trkpt>
+<trkpt lat="55.9456163" lon="-3.1871027">
+<ele>88</ele>
+<time>2018-11-24T00:00:13Z</time></trkpt>
+<trkpt lat="55.9457064" lon="-3.1871831">
+<ele>89</ele>
+<time>2018-11-24T00:00:17Z</time></trkpt>
+<trkpt lat="55.9458265" lon="-3.1872797">
+<ele>89</ele>
+<time>2018-11-24T00:00:22Z</time></trkpt>
+<trkpt lat="55.9459617" lon="-3.1873709">
+<ele>90</ele>
+<time>2018-11-24T00:00:28Z</time></trkpt>
+<trkpt lat="55.9461029" lon="-3.1874889">
+<ele>90</ele>
+<time>2018-11-24T00:00:34Z</time></trkpt>
+<trkpt lat="55.9462291" lon="-3.1875318">
+<ele>91</ele>
+<time>2018-11-24T00:00:40Z</time></trkpt>
+<trkpt lat="55.9463132" lon="-3.1877196">
+<ele>92</ele>
+<time>2018-11-24T00:00:45Z</time></trkpt>
+<trkpt lat="55.9463973" lon="-3.1879127">
+<ele>93</ele>
+<time>2018-11-24T00:00:50Z</time></trkpt>
+<trkpt lat="55.9463763" lon="-3.1882185">
+<ele>93</ele>
+<time>2018-11-24T00:00:57Z</time></trkpt>
+<trkpt lat="55.9463132" lon="-3.1884277">
+<ele>93</ele>
+<time>2018-11-24T00:01:03Z</time></trkpt>
+<trkpt lat="55.946181" lon="-3.1885028">
+<ele>93</ele>
+<time>2018-11-24T00:01:08Z</time></trkpt>
+<trkpt lat="55.9460699" lon="-3.1885511">
+<ele>92</ele>
+<time>2018-11-24T00:01:13Z</time></trkpt>
+<trkpt lat="55.9460638" lon="-3.188417">
+<ele>92</ele>
+<time>2018-11-24T00:01:16Z</time></trkpt>
+<trkpt lat="55.9461149" lon="-3.1881595">
+<ele>91</ele>
+<time>2018-11-24T00:01:22Z</time></trkpt>
+<trkpt lat="55.9460398" lon="-3.1884706">
+<ele>92</ele>
+<time>2018-11-24T00:01:30Z</time></trkpt>
+<trkpt lat="55.9460278" lon="-3.1887013">
+<ele>93</ele>
+<time>2018-11-24T00:01:35Z</time></trkpt>
+<trkpt lat="55.9459527" lon="-3.1888729">
+<ele>93</ele>
+<time>2018-11-24T00:01:40Z</time></trkpt>
+<trkpt lat="55.9458806" lon="-3.1889105">
+<ele>92</ele>
+<time>2018-11-24T00:01:43Z</time></trkpt>
+<trkpt lat="55.9458476" lon="-3.1890929">
+<ele>93</ele>
+<time>2018-11-24T00:01:47Z</time></trkpt>
+<trkpt lat="55.9457665" lon="-3.1891358">
+<ele>93</ele>
+<time>2018-11-24T00:01:50Z</time></trkpt>
+<trkpt lat="55.9457034" lon="-3.1891733">
+<ele>94</ele>
+<time>2018-11-24T00:01:53Z</time></trkpt>
+<trkpt lat="55.9457424" lon="-3.1892914">
+<ele>94</ele>
+<time>2018-11-24T00:01:56Z</time></trkpt>
+<trkpt lat="55.9457935" lon="-3.1894255">
+<ele>93</ele>
+<time>2018-11-24T00:02:00Z</time></trkpt>
+<trkpt lat="55.9458325" lon="-3.1895328">
+<ele>93</ele>
+<time>2018-11-24T00:02:03Z</time></trkpt>
+<trkpt lat="55.9457845" lon="-3.189624">
+<ele>94</ele>
+<time>2018-11-24T00:02:05Z</time></trkpt>
+<trkpt lat="55.9457094" lon="-3.189683">
+<ele>94</ele>
+<time>2018-11-24T00:02:09Z</time></trkpt>
+<trkpt lat="55.9456103" lon="-3.1897634">
+<ele>95</ele>
+<time>2018-11-24T00:02:13Z</time></trkpt>
+<trkpt lat="55.9455111" lon="-3.1898439">
+<ele>95</ele>
+<time>2018-11-24T00:02:17Z</time></trkpt>
+<trkpt lat="55.9454991" lon="-3.1899941">
+<ele>95</ele>
+<time>2018-11-24T00:02:21Z</time></trkpt>
+<trkpt lat="55.9454841" lon="-3.1902355">
+<ele>95</ele>
+<time>2018-11-24T00:02:26Z</time></trkpt>
+<trkpt lat="55.945445" lon="-3.1904447">
+<ele>95</ele>
+<time>2018-11-24T00:02:31Z</time></trkpt>
+<trkpt lat="55.945406" lon="-3.1906539">
+<ele>94</ele>
+<time>2018-11-24T00:02:36Z</time></trkpt>
+<trkpt lat="55.945415" lon="-3.190949">
+<ele>94</ele>
+<time>2018-11-24T00:02:43Z</time></trkpt>
+<trkpt lat="55.9454601" lon="-3.191126">
+<ele>94</ele>
+<time>2018-11-24T00:02:47Z</time></trkpt>
+<trkpt lat="55.9455802" lon="-3.1911314">
+<ele>94</ele>
+<time>2018-11-24T00:02:52Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
